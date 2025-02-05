@@ -1,6 +1,8 @@
 <!-- ## Hi there!👋 I'm Sanya Rastogi
 ### A passionate Data Analyst! -->
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=AkashParley&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
 <h1 align="center">Hi👋, I'm Akash Parley </h1>
 <h3 align="center">A passionate Data Analyst📊 from India </h3>
 
