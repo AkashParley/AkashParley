@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=AkashParley&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 <h1 align="center">Hi👋, I'm Akash Parley </h1>
-<h3 align="center">A passionate Data Analyst📊 from India </h3>
+<h3 align="center">A passionate Software Dev and Data Analyst Enthusiast from India </h3>
 
 <!-- Typing SVG Effect -->
 <p align="center">
