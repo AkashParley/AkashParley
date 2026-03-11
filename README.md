@@ -8,21 +8,26 @@
 
 <!-- Typing SVG Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A410&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Tableau+%7C+Excel;Passionate+about+Data+Science+%26+Business+Analytics;Always+Learning%2C+Always+Improving!" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A410&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Data+Analyst;Mastering+DSA+with+C%2B%2B;Full-Stack+Dev%3A+React%2C+Node%2C+Express;Turning+Raw+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Tableau+%7C+JavaScript;Building+Scalable+%26+Data-Driven+Solutions" />
+  </a>
 </p>
 
 
-<!--**Sanyarastogi28/Sanyarastogi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:-->
-- 🔥 “Data tells a story—I’m here to decode it, visualize it, and turn it into powerful insights that drive impact!” 
-- 🔭 I’m a life long learner, currently exploring more about Data Analytics!
-- 🌱 I’m currently learning and upskilling myself.
-- 🔹 Interned at **Innobyte Services & Infotact Solutions**, working on **real-world analytics projects**.
-- 🧰 My analytics toolbox contains SQL, Python, Tableau, DAX, MS Excel ,PostgresSQL.
-- 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
-- 📫 Reach me at **[Gmail](mailto:akashparle786@gmail.com)** - akashparle786@gmail.com
-- 🔗 Connect with me at <p align="center">
+
+### ⚡ About Me
+
+- 🚀 **"Building at the intersection of Data and Development—turning complex logic into scalable solutions."** - 🔭 I’m currently deep-diving into **Data Structures & Algorithms (DSA)** and **Full-Stack Web Development**.
+- 🌱 Mastering the **MERN Stack** (MongoDB, Express, React, Node.js) to build data-driven applications.
+- 💼 Previously interned at **Sunfox Technologies**, **Innobyte Services**, and **Infotact Solutions**, delivering real-world analytics and technical solutions.
+- 🧰 **The Tech Toolbox:** - **Dev:** C++, React, Node.js, Express.
+  - **Data:** SQL, Python, Tableau, PostgreSQL, MS Excel.
+- 📚 Specialized in **Software Architecture**, **Database Management**, and **Actionable Data Visualization**.
+- 📫 Reach me at: **[akashparle786@gmail.com](mailto:akashparle786@gmail.com)**
+  
+## 🔗 Connect with me at
+<p align="center">
   <a href="https://www.linkedin.com/in/akash-parley-9446292a8">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -38,6 +43,11 @@ Here are some ideas to get you started:-->
 ## 🚀 Tech Stack & Tools  
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures-FFD43B?style=for-the-badge&logo=algorithm&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
